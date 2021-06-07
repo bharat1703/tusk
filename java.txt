@@ -6,6 +6,10 @@ public void sub(int x,int y){
    z=x-y;
    system.out.println(z);
 }
+public void mul(int x,int y){ 
+   z=x*y;
+   system.out.println(z);
+}
 public void div(int x,int y){ 
    z=x/y;
    system.out.println(z);
@@ -13,3 +17,4 @@ public void div(int x,int y){
 
 
 done my changes
+merging is done again
