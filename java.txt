@@ -10,3 +10,6 @@ public void div(int x,int y){
    z=x/y;
    system.out.println(z);
 }
+
+
+done my changes
