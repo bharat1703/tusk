@@ -1,0 +1,4 @@
+public void add(int x,int y){ 
+   z=x+y;
+   system.out.println(z);
+}
