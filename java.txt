@@ -16,5 +16,6 @@ public void div(int x,int y){
 }
 public void modulodiv(int x,int y){ 
    z=x%y;
+   system.out.println("sir attara");
    system.out.println(z);
 }
