@@ -14,7 +14,7 @@ public void div(int x,int y){
    z=x/y;
    system.out.println(z);
 }
-public void moddiv(int x,int y){ 
+public void modulodiv(int x,int y){ 
    z=x%y;
    system.out.println(z);
 }
